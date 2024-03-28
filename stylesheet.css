@@ -21,3 +21,17 @@ body {
     border-radius: 10px;
     margin-top: 270px;
 }
+
+.tasku-div{
+    border: black solid 2px;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+
+    padding-left:10px ;
+    padding-right:10px ;
+    margin-top: 5px;
+
+    font-weight: bold;
+}
